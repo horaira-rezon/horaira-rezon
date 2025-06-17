@@ -11,13 +11,9 @@ I am an aspiring Agricultural Engineer specializing in Precision Agriculture. I 
 </h3>
 
 ## Tools & Tech
-- **Languages:** Python, C++, JavaScript  
-- **Hardware:** Arduino, Raspberry Pi, Spectrometers  
-- **Tools & Frameworks:** TensorFlow, OpenCV, MATLAB, ArcGIS  
-
-## Projects
-- [Fruit Quality Prediction using Spectroscopy](https://github.com/your-project)  
-- [AgriBot – Weed Detection Robot](https://github.com/your-project)  
+- **Languages:** Python, C++  
+- **Hardware:** Arduino, Raspberry Pi, Spectroscopy, Embedded Systems
+- **Tools & Frameworks:** Scikit-learn, TensorFlow, Keras, Pandas, OpenCV, AutoCAD, SolidWorks, MATLAB, ArcGIS 
 
 ## GitHub Stats
 <p align="center">
@@ -26,22 +22,22 @@ I am an aspiring Agricultural Engineer specializing in Precision Agriculture. I 
 
 ## Let's Connect
 <p align="center">
-  <a href="https://www.linkedin.com/in/allsabaab/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/allsabaab/" tabindex="-1">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/Allsabaab">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://github.com/Allsabaab" tabindex="-1">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://www.researchgate.net/profile/Horaira-Rezon">
-    <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white" alt="ResearchGate" />
+  <a href="https://www.researchgate.net/profile/Horaira-Rezon" tabindex="-1">
+    <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white" alt="ResearchGate"/>
   </a>
-  <a href="https://x.com/Allsabaab">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter/X" />
+  <a href="https://x.com/Allsabaab" tabindex="-1">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="X"/>
   </a>
-  <a href="https://www.facebook.com/Allsabaab">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  <a href="https://www.facebook.com/Allsabaab" tabindex="-1">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
-  <a href="https://www.instagram.com/allsabaab/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <a href="https://www.instagram.com/allsabaab/" tabindex="-1">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
