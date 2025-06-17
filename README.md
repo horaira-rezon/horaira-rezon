@@ -1,2 +1,1 @@
-## Hi there, I'm
-# Horaira Rezon
+## Hi there 👋, I'm Horaira Rezon
