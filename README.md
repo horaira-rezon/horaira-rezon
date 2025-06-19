@@ -6,7 +6,7 @@
 I am an aspiring Agricultural Engineer specializing in Precision Agriculture. I integrate AI and Automation, Agricultural Robotics, Machine Vision, and IoT to enhance Sustainable Agriculture. Experienced in projects like disease prediction, smart irrigation, and fruit quality assessment. Skilled in Programming (Python, C/C++), Data Science Frameworks, Computer Vision with OpenCV, Embedded Systems, Mechatronics and geospatial tools like ArcGIS. I enjoy working on tasks like Data Pre-processing, Multivariate Analysis, Statistical Modeling, and exploring data through visualization.
 </p>
 <h3 align="center"> ➤
-  <a href="horaira-rezon.github.io" style="text-decoration: none; color: inherit;">My Portfolio</a> • 
+  <a href="https://horaira-rezon.github.io/" style="text-decoration: none; color: inherit;">My Portfolio</a> • 
   <a href="https://drive.google.com/file/d/1XZoLlUc81IkDoJQCNNImNK3-pUE65u_V/view?usp=sharing" style="text-decoration: none; color: inherit;">My CV</a>
 </h3>
 
