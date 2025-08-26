@@ -7,7 +7,7 @@ I am an aspiring Agricultural Engineer specializing in Precision Agriculture. I 
 </p>
 <h3 align="center"> ➤
   <a href="https://horaira-rezon.github.io/" style="text-decoration: none; color: inherit;">My Portfolio</a> • 
-  <a href="https://drive.google.com/file/d/1XZoLlUc81IkDoJQCNNImNK3-pUE65u_V/view?usp=sharing" style="text-decoration: none; color: inherit;">My CV</a>
+  <a href="https://drive.google.com/file/d/1Pa5EgBqzBEG2tSh-S1bv-iRy9Eqd0dOc/view?usp=sharing" style="text-decoration: none; color: inherit;">My CV</a>
 </h3>
 
 ## Tools & Tech
