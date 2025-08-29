@@ -25,7 +25,7 @@ I am an aspiring Agricultural Engineer specializing in Precision Agriculture. I 
   <a href="https://www.linkedin.com/in/allsabaab/" tabindex="-1">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/Allsabaab" tabindex="-1">
+  <a href="https://github.com/horaira-rezon" tabindex="-1">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://www.researchgate.net/profile/Horaira-Rezon" tabindex="-1">
